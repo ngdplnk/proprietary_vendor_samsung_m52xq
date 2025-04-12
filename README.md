@@ -16,6 +16,8 @@ To [download](https://github.com/BlackMesa123/proprietary_vendor_samsung_m52xq/r
 | OXM | BTU |
 | SER | SER |
 
+For older binaries please visit [the original repo](https://github.com/Mesa-Labs-Archive/proprietary_vendor_samsung_m52xq).
+
 ### Credits
 - [@jesec](https://github.com/jesec) and [@corsicanu](https://github.com/corsicanu) for the original GitHub Actions script.
 - [@unix3dgforce](https://github.com/unix3dgforce) for his [lpunpack.py](https://github.com/unix3dgforce/lpunpack) script.
